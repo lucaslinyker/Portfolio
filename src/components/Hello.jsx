@@ -13,7 +13,7 @@ export function Hello() {
           Entrar em Contato
         </a>
         <a
-          href='/src/assets/cv.pdf'
+          href='/cv.pdf'
           target='_blank'
           className='bg-zinc-300 hover:bg-zinc-400 text-zinc-700 text-lg transition-colors rounded-full py-1 px-4'
         >
