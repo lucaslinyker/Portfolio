@@ -24,7 +24,7 @@ export function Projects() {
             description='Site de venda de equipamentos esportivos responsivo. Na qual tenho feito um simples sistema de autenticaçãoo com JSON Server, na qual pretendo refazer este com Firebase e futuramente implementar um sistema de carrinho de compras e pagamento com Stripe.'
             stack='HTML5, CSS3, BEM CSS, JS, Figma, Vercel, JSON Server'
             github='https://github.com/lucaslinyker/SportsGear'
-            live='https://sports-gear.store'
+            live='https://sports-gear.vercel.app'
           />
         </Project>
         <Project>
